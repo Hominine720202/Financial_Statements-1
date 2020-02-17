@@ -5,4 +5,4 @@ A Visual Comparison of Financial Statements with Python
 
 Due to the dynamic charts included in this project, this code is best viewed in nbviewer:
 
-https://nbviewer.jupyter.org/github/e-bedoya/Financial_Statements/blob/cdc183225a23f7ad347ff8768bd9831cdee0323f/Financial_Statements.ipynb
+https://nbviewer.jupyter.org/github/e-bedoya/Financial_Statements/blob/a1f9fc0e4ae7e7beb8dd5b5712b34a885b95d660/Financial_Statements.ipynb
